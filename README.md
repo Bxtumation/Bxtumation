@@ -1,4 +1,4 @@
-[![Hits](https://hits.sh/github.com/Bxtumation/Bxtumation.svg?color=000000&labelColor=ff0000)](https://hits.sh/github.com/Bxtumation/Bxtumation/)
+[![Hits](https://hits.sh/github.com/Bxtumation/Bxtumation.svg?style=plastic&label=Hits&color=000000&labelColor=ff0000)](https://hits.sh/github.com/Bxtumation/Bxtumation/)
 <h1 align=center>𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐓𝐨 𝐌𝐲 𝐏𝐫𝐨𝐟𝐢𝐥𝐞</h1>
 <div align=center>
   <a href="https://discord.com/users/786175409938497576">
