@@ -1,4 +1,4 @@
-# Hello, I'm Bxtumation 👋
+# I'm Bxtumation 👋
 
 ## Stats 📊
 ![github-stats](https://github-readme-stats.vercel.app/api?username=bxtumation&theme=tokyonight&show_icons=true&line_height=25)
